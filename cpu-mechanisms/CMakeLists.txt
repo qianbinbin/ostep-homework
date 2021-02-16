@@ -1,1 +1,2 @@
 add_executable(syscall_bench syscall_bench.c)
+add_executable(context_switch_bench context_switch_bench.c)
